@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Today I Learned
+
+Welcome to the Fun Facts App! This application allows users to discover and learn new facts that they may not have known before. Users can view a list of facts, each with its text and a valid source. The facts are categorized into eight categories, and users can filter the list based on their preferred category. Additionally, users can vote on facts to express their interest or indicate if a fact is false. If you have an interesting fact to share, you can easily add it to the app.
+
+## Features
+
+- View a list of fun facts contributed by users of the app.
+- Each fact is associated with a valid source and categorized into one of the eight categories.
+- Filter facts by category for easy exploration.
+- Vote on facts to show your interest or flag inaccurate information.
+- Share your own fun facts with the world.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
